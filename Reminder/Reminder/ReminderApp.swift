@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// this is the main class for the entry point
 @main
 struct ReminderApp: App {
     var body: some Scene {
